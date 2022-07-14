@@ -64,8 +64,8 @@ body {
 }
 
 .social-media-tag {
-    width: 8%;
-    height: 40%;
+    /* width: 8%;
+    height: 40%; */
     padding: 2px;
     transform: scale(1);
 }

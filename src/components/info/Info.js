@@ -125,6 +125,7 @@ export default function Info() {
 
                 <div className='career heading-left div-size '>
                     <h1>Career</h1>
+                    <a href='https://forms.gle/s5uypJQPYb5xNVQP7' target='_blank'>Carrer Inquiry</a>
                 </div>
 
                 <div className='contact-us heading-left div-size '>
